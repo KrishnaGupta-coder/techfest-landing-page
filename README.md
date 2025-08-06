@@ -8,8 +8,7 @@ This page blends design, identity, and animation to create an engaging hero sect
 
 ## 🔗 Live Demo
 
-👉 **View the page here**: [https://your-username.github.io/techfest-landing-page/](https://your-username.github.io/techfest-landing-page/)  
-_(Replace with your actual link once GitHub Pages is enabled)_
+👉 **View the page here**: (https://techfest-landing-page.vercel.app/)
 
 ---
 
@@ -32,15 +31,8 @@ _(Replace with your actual link once GitHub Pages is enabled)_
 
 ---
 
-## 📸 Preview
 
-![Preview](screenshot.png)  
-_(Upload a screenshot named `screenshot.png` for this to display)_
 
----
 
-## 🧩 How to Run Locally
 
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/techfest-landing-page.git
+
